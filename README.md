@@ -1,4 +1,4 @@
-# python-challengetry2
+# Analyzing Financial Records and Election Results
 This is my 2nd attempt at the 1st python challenge.
 
 Here, I use Python in Visual Studio Code to compute the number of months in a bank's accounting records 
